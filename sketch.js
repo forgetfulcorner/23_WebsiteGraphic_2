@@ -27,7 +27,7 @@ function setup() {
   randH = random(0, 255)
   randRot = random(-1, 1)
   
-  background(randH * 0.4, 150, 220, 40);
+  background(randH * 0.4, 150, 220, 30);
 }
 
 function draw() {
